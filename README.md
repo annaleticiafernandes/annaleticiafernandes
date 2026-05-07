@@ -1,4 +1,4 @@
-# Anna Fernandes 👩🏻‍💻
+# Letícia Fernandes 👩🏻‍💻
 
 ```txt
 Estudante de Tecnologia da Informação @ IMD/UFRN
