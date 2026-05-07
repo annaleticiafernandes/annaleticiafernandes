@@ -1,16 +1,29 @@
-## Hi there 👋
+# Anna Fernandes 👩🏻‍💻
 
-<!--
-**annaleticiafernandes/annaleticiafernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```txt
+Estudante de Tecnologia da Informação @ IMD/UFRN
+Desenvolvimento de Software ✦ Full Stack
+```
 
-Here are some ideas to get you started:
+Atualmente construindo projetos e desenvolvendo experiência prática em programação e desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✦ Desenvolvimento Web  
+✦ Automação de Processos  
+✦ Projetos acadêmicos e práticos  
+
+---
+
+## Tecnologias 🚀
+
+```txt
+C • C++ • HTML • CSS • JavaScript
+Java • Python • React • Git • GitHub
+```
+
+---
+
+## Contato 🌎
+
+📧 anna.fernandes1759@gmail.com
+
+---
