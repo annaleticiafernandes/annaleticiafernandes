@@ -2,7 +2,7 @@
 
 ```txt
 Estudante de Tecnologia da Informação @ IMD/UFRN
-Desenvolvimento de Software ✦ Full Stack
+✦ Desenvolvimento de Software  
 ```
 
 Atualmente construindo projetos e desenvolvendo experiência prática em programação e desenvolvimento de software.
